@@ -1,4 +1,4 @@
-Feature:Customer
+Feature:Customer Feature
 
 @regression
 Scenario Outline: Add New Customer
